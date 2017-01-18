@@ -13,3 +13,10 @@ React Sample App:
 Icons:
 
  * https://material.io/icons/#ic_favorite
+
+Other Native Android Items:
+
+ * Add Pull to refresh: https://developer.android.com/training/swipe/add-swipe-interface.html#AddRefreshAction
+ * Notifications: https://developer.android.com/guide/topics/ui/notifiers/notifications.html#CreateNotification
+ * Password protect and android app: http://stackoverflow.com/questions/22476707/password-protect-android-app
+ * Storing data in internal storage: https://developer.android.com/guide/topics/data/data-storage.html#pref
