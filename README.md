@@ -13,6 +13,7 @@ React Sample App:
 Icons:
 
  * https://material.io/icons/#ic_favorite
+ * https://android-material-icon-generator.bitdroid.de/#section-material-icons
 
 Other Native Android Items:
 
